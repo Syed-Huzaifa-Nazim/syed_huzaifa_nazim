@@ -7,7 +7,7 @@ const experiences = [
     {
     role: 'AI Engineer Intern - Bootcamp 6.0',
     company: 'Saylani Mass IT Training',
-    period: '2026 - Present',
+    period: '07/2026 - 09/2026',
     type: 'Full-time',
     status: 'current',
     description: 'Developed and deployed AI-driven solutions for various business applications. Implemented machine learning models to enhance data analysis and decision-making processes.',
